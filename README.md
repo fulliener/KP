@@ -1,16 +1,11 @@
-# myapp
+# ПКС
 
-A new Flutter project.
+# Акперов Руслан ЭФБО-04-22
 
-## Getting Started
+## ПР1
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/43c033d1-9d0d-42f3-8e83-36093630a184)
 
-A few resources to get you started if this is your first Flutter project:
+## Эмулятор не запускается ни в какую, что я только не делал. Вылезает ошибка 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/d596cb98-e065-4bdb-84fc-5354f2ca4abe)
