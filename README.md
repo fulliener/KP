@@ -6,6 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/43c033d1-9d0d-42f3-8e83-36093630a184)
 
-## Эмулятор не запускается ни в какую, что я только не делал. Вылезает ошибка 
 
-![image](https://github.com/user-attachments/assets/d596cb98-e065-4bdb-84fc-5354f2ca4abe)
+
+![image](https://github.com/user-attachments/assets/1f075db6-1e5d-4d52-8a67-e635c2a2772a)
+
